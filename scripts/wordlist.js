@@ -1,7 +1,7 @@
 const wordList = [
   {
     word: "government",
-    hint: "The governing body of a nation, state, or community.",
+    hint: "The organization, machinery, or agency through which a political unit exercises authority and performs functions and which is usually classified according to the distribution of power within it.",
   },
   { word: "president", hint: "The elected head of a republic." },
   {
@@ -128,7 +128,7 @@ const wordList = [
   },
   {
     word: "investigation",
-    hint: "The action of investigating something or someone; formal or systematic examination or research.",
+    hint: "The action of formal or systematic examination or research of something or someone.",
   },
   {
     word: "concentration",
